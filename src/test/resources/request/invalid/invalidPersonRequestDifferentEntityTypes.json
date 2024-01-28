@@ -1,0 +1,24 @@
+{
+  "inputs": {
+    "webint": {
+      "entityType": "person",
+      "name": "David",
+      "age": 35,
+      "address": {
+        "city": "Tel Aviv",
+        "region": "IL"
+      }
+    },
+    "c2": {
+      "entityType": "dog",
+      "name": "Max",
+      "age": 2,
+      "breed": "Labrador Retriever",
+      "color": "Black",
+      "address": {
+        "city": "Pawington",
+        "region": "Petland"
+      }
+    }
+  }
+}

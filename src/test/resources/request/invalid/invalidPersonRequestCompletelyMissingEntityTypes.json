@@ -1,0 +1,22 @@
+{
+  "inputs": {
+    "webint": {
+      "entityType": "person",
+      "name": "David",
+      "age": 35,
+      "address": {
+        "city": "Tel Aviv",
+        "region": "IL"
+      }
+    },
+    "c2": {
+      "entityType": "dog",
+      "name": "Sarah",
+      "age": 42,
+      "address": {
+        "city": "Jerusalem",
+        "region": "Israel"
+      }
+    }
+  }
+}

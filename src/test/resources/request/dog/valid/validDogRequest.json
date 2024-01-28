@@ -1,0 +1,26 @@
+{
+  "inputs": {
+    "webint": {
+      "entityType": "dog",
+      "name": "Buddy",
+      "age": 3,
+      "breed": "Golden Retriever",
+      "color": "Golden",
+      "address": {
+        "city": "Dogsville",
+        "region": "Petland"
+      }
+    },
+    "c2": {
+      "entityType": "dog",
+      "name": "Max",
+      "age": 2,
+      "breed": "Labrador Retriever",
+      "color": "Black",
+      "address": {
+        "city": "Pawington",
+        "region": "Petland"
+      }
+    }
+  }
+}
